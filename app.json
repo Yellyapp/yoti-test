@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "yoti.test"
     },
     "android": {
       "adaptiveIcon": {
@@ -43,6 +44,9 @@
                 "lib/arm64-v8a/libc++_shared.so"
               ]
             }
+          },
+          "ios": {
+            "deploymentTarget": "13.0"
           }
         }
       ]
