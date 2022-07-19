@@ -1374,10 +1374,10 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
-"@getyoti/react-native-yoti-face-capture@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@getyoti/react-native-yoti-face-capture/-/react-native-yoti-face-capture-2.0.0.tgz#eff117f0b60fd179acf9669cfbbce1769526351a"
-  integrity sha512-lsWM6enSu3q/1H2SopjlzmVI0FA03LCFrN6h0w+VIdHAUhDutTLggR/1CAQqX2zT1g9uGtnsvmyjtnHTcH0UZg==
+"@getyoti/react-native-yoti-face-capture@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@getyoti/react-native-yoti-face-capture/-/react-native-yoti-face-capture-2.0.1.tgz#f4f24c171c857113f45de95ac7b5d06b1ec842e2"
+  integrity sha512-LDuBxat5DfO6wRBzSsc/PRJlX/Qt9AQGyJ+5R7Xmfs4uV4f5aRdltYuShqU/N7c49Vt74w1ajTjbkwLDrYD4Ww==
 
 "@graphql-typed-document-node/core@^3.1.0", "@graphql-typed-document-node/core@^3.1.1":
   version "3.1.1"

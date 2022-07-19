@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@getyoti/react-native-yoti-face-capture": "^2.0.0",
+    "@getyoti/react-native-yoti-face-capture": "^2.0.1",
     "expo": "~45.0.0",
     "expo-build-properties": "~0.2.0",
     "expo-camera": "^12.2.0",
