@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@getyoti/react-native-yoti-face-capture": "^2.0.0",
+    "@getyoti/react-native-yoti-face-capture": "^2.0.1",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
     "@react-navigation/stack": "^6.2.1",
